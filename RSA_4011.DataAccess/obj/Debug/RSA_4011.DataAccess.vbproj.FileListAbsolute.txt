@@ -1,0 +1,8 @@
+C:\RSA_4011\RSA_4011.DataAccess\bin\Debug\RSA_4011.DataAccess.dll
+C:\RSA_4011\RSA_4011.DataAccess\bin\Debug\RSA_4011.DataAccess.pdb
+C:\RSA_4011\RSA_4011.DataAccess\bin\Debug\RSA_4011.DataAccess.xml
+C:\RSA_4011\RSA_4011.DataAccess\obj\Debug\RSA_4011.DataAccess.Resources.resources
+C:\RSA_4011\RSA_4011.DataAccess\obj\Debug\RSA_4011.DataAccess.vbproj.GenerateResource.Cache
+C:\RSA_4011\RSA_4011.DataAccess\obj\Debug\RSA_4011.DataAccess.dll
+C:\RSA_4011\RSA_4011.DataAccess\obj\Debug\RSA_4011.DataAccess.xml
+C:\RSA_4011\RSA_4011.DataAccess\obj\Debug\RSA_4011.DataAccess.pdb
